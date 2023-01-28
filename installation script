@@ -1,0 +1,6 @@
+In cmd of vscode type:
+env\Scripts\activate.bat
+
+OR 
+
+pip install pandas numpy flask statsmodels 

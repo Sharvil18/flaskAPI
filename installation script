@@ -2,5 +2,7 @@ In cmd of vscode type:
 env\Scripts\activate.bat
 
 OR 
-
+pip install virtualenv
+virtualenv env
+env\Scripts\activate.bat
 pip install pandas numpy flask statsmodels 
